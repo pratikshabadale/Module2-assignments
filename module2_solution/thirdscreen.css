@@ -1,0 +1,78 @@
+.head {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.para {
+    background-color: palevioletred;
+    border: 2px solid black;
+    margin-top: -11px;
+    float: right;
+    margin-right: -10px;
+    width: 115px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.box {
+    background-color: gray;
+    padding: 10px;
+    border: 3px solid black;
+    width: 380px;
+    height: 170px;
+    margin-top: 50px;
+    margin-left: 461px;
+ 
+
+}
+
+.text {
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.box1{
+    background-color: gray;
+    padding: 10px;
+    border: 3px solid black;
+    width: 380px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: 459px;
+  
+ 
+}
+.para1{
+    background-color:brown;
+    color: white;
+    border: 2px solid black;
+    margin-top: -10px;
+    float: right;
+    margin-right: -10px;
+    width: 115px;
+    text-align: center;
+    font-weight: bold;
+}
+
+ .box2{
+    background-color: gray;
+    padding: 10px;
+    border: 3px solid black;
+    width: 380px;
+    height: 165px;
+    margin-top: 25px;
+    margin-left: 462px;
+ 
+}
+.para2{
+    background-color:#ffef96;
+    color: black;
+    border: 2px solid black;
+    margin-top: -10px;
+    float: right;
+    margin-right: -10px;
+    width: 115px;
+    text-align: center;
+    font-weight: bold;
+} 
